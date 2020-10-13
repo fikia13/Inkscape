@@ -80,7 +80,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.23717539"
-     inkscape:cx="1528.8318"
+     inkscape:cx="1634.239"
      inkscape:cy="834.5539"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
@@ -652,14 +652,6 @@
          id="tspan194">Pesan Cepat</tspan></text>
     <text
        xml:space="preserve"
-       id="text192"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect194);fill:#ff0000;fill-opacity:1;stroke:none;"
-       transform="matrix(5.1533708,0,0,13.106394,-2223.9198,-1484.2374)"><tspan
-         x="512.73242"
-         y="126.40156"><tspan
-           style="fill:#ff0000">Sudah Terhack</tspan></tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="580.64886"
        y="123.26936"
@@ -669,12 +661,5 @@
          x="580.64886"
          y="123.26936"
          style="stroke-width:0.264583" /></text>
-    <text
-       transform="matrix(5.1533708,0,0,13.106394,-2210.5331,-1372.6814)"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect981);fill:#ff0000;fill-opacity:1;stroke:none;"
-       id="text979"
-       xml:space="preserve"><tspan
-         x="512.73242"
-         y="126.40156"><tspan>ampun </tspan></tspan></text>
   </g>
 </svg>
